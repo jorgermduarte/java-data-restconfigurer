@@ -1,1 +1,1 @@
-# java-odata
+# java-rest-configurer
